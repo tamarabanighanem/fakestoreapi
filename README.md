@@ -1,2 +1,2 @@
 # fakestoreapi
-(Live Code)[https://tamarabanighanem.github.io/fakestoreapi/]
+[Live Code](https://tamarabanighanem.github.io/fakestoreapi/)
