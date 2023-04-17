@@ -1,0 +1,16 @@
+#grid div {
+
+    width: 20rem;
+    height: 30rem;
+    padding: 2rem;
+    margin: 2rem;
+    text-align: center;
+    background-color: #80808040;
+    border-radius: 2rem;
+    display: inline-block;
+    overflow: auto;
+}
+
+#grid div img {
+    width: 200px;
+}
